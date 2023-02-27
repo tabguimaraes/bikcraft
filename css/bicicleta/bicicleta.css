@@ -35,7 +35,7 @@
 .bicicleta-imagens a:nth-child(1n + 2) {
   border: 2px solid transparent;
   border-radius: 4px;
-  filter: blur(1px);
+  /* filter: blur(1px); */
   transition: 0.5s;
 }
 
